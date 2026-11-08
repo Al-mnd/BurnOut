@@ -12,42 +12,42 @@
 
 **4. Project objectives**
   - The main objectives of BurnOut are to:
-      Help working students organize their class and work schedules.
-      Identify conflicts between school and work schedules.
-      Allow users to create, update, delete, and monitor tasks.
-      Track academic and work-related deadlines.
-      Record salary and other sources of income.
-      Record and categorize daily expenses.
-      Calculate the remaining balance based on income and expenses.
-      Generate weekly or monthly summaries.
-      Save and retrieve records using text files.
+      - Help working students organize their class and work schedules.
+      - Identify conflicts between school and work schedules.
+      - Allow users to create, update, delete, and monitor tasks.
+      - Track academic and work-related deadlines.
+      - Record salary and other sources of income.
+      - Record and categorize daily expenses.
+      - Calculate the remaining balance based on income and expenses.
+      - Generate weekly or monthly summaries.
+      - Save and retrieve records using text files.
   
 **5. Target users** 
   - BurnOut is designed for:
-      Working Students – Students who need to balance their school schedules, work schedules, tasks, and finances.
-      Students with Multiple Responsibilities – Students who want to organize their academic activities and personal finances in one system.
+      - Working Students – Students who need to balance their school schedules, work schedules, tasks, and finances.
+      - Students with Multiple Responsibilities – Students who want to organize their academic activities and personal finances in one system.
 
 **6. Main features**
-  - Schedule and Conflict Manager
+  - Schedule and Conflict Manager:
       Add, view, update, and delete schedules.
       Manage class and work schedules.
       Detect overlapping schedules.
-  - Task and Deadline Manager
+  - Task and Deadline Manager:
       Add, view, search, update, and delete tasks.
       Set task priorities.
       Track deadlines and completion status.
       Mark tasks as completed.
-  - Income and Expense Manager
+  - Income and Expense Manager:
       Record salary and other sources of income.
       Add and categorize daily expenses.
       View income and expense records.
       Calculate the remaining balance.
-  - Weekly/Monthly Summary
+  - Weekly/Monthly Summary:
       View completed and pending tasks.
       Review class and work schedules.
       Check total income and expenses.
       View the remaining financial balance.
-  - User Profile
+  - User Profile:
       Enter and update personal information.
       Store the user's name, program, school, and workplace.
 
@@ -56,6 +56,7 @@
   - Object-Oriented Programming (OOP) – Used to organize the system through classes and objects.
   - Text File Handling – Used to save and retrieve user records.
   - Git and GitHub – Used for version control and project collaboration.
+  
 **8. Team members and roles**
 **9. OOP concepts demostrated**
 **10. Instructions for running the program**
