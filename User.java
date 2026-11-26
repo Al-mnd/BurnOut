@@ -1,4 +1,4 @@
-// SThis stores our users information and profile.
+// This stores our users information and profile.
 public class User {
     private String name;
     private String program;
