@@ -4,3 +4,4 @@ public class Expense {
     private String category;
     private double amount;
     private String date;   // YYYY-MM-DD
+}
